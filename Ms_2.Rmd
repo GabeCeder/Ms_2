@@ -1,0 +1,22 @@
+---
+title: "Ms_2"
+author: "Gabe Cederberg"
+date: "2/13/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**First Project: "Harvard Dining" by Neil Khurana**
+
+I am generally quite interested in the logistics of running HUDS, so this project appeals to me as one to look at. Some of the major PROS of this project are that (1) it is very easy to understand all of the figures; they do not need much complex explanation, (2) the website looks very clean; nothing is too distracting; 
+
+However, this project does leave me wanting a little more. For example, it's a little unsatisfying that 'Cilantro' is the most commonly served food during dinners. I think it could've been more effective to break the foods up into their respective categories, like entrees, salad bar, plant protein, etc. and then allow website users to see the most common foods from *within* each of those categories. Maybe that's just a personal thing. Also, the second tab in the project is "Calendar" which simply allows you to see the foods that were offered on a single given day of your choice. While that would be helpful if I'm trying to track down what was served on a particular day, it doesn't really give me any insights into the nature of the HUDS operation. Maybe this could've been a later tab. I also think I want to know a little more about the person doing the project and what their scraping process looked like. 
+
+
+
+
+
+**Second Project: **
